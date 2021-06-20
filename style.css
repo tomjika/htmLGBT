@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+}
+
+.row{
+	display: flex;
+	height: 100vh;
+}
+
+.flag {
+	height: 100%;
+	width: 16.67%;
+}
+
+.red{
+	background-color: #e40303;
+}
+.orange{
+	background-color: #ff8c00;
+}
+.yellow{
+	background-color: #ffed00;
+}
+.green{
+	background-color: #008026;
+}
+.blue{
+	background-color: #004dff;
+}
+.purple{
+	background-color: #750787;
+}
